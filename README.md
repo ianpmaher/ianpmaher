@@ -1,6 +1,6 @@
 ## Hi there, I'm Ian! 👋
 
-My life is getting stuck in Wikipedia black holes, punctuated by eating, sleep, work, and learning software engineering.  
+My life is getting stuck in Wikipedia rabbit holes, punctuated by eating, sleep, work, and learning software engineering.  
 
 ## 📚 Learning Roadmap
 
